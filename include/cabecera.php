@@ -1,0 +1,2 @@
+<!DOCTYPE html>
+<h1 class="span">PRIMER PARCIAL ENVIO DE DATOS METODO POST</h1>
